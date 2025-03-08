@@ -1,5 +1,5 @@
 # **Naive Bayes**
- **Problem Tanımı**: Bir bankanın çeşitli parametrelere bağlı olarak müşterilerinin bankayı terk edip etmedikleri
+ **Problem Tanımı**: Bir bankanın çeşitli parametrelere bağlı olarak müşterilerinin bankayı terk edip etmedikleridir.
  
  **Kullanılan Veriseti**: Bu veri kümesi, Yeni Zelanda'nın önde gelen finans kuruluşlarından Kiwibank'ın müşteri kaybı kalıpları ve davranışları hakkında içgörü sağlamaktadır. Demografik bilgileri (yaş, cinsiyet, coğrafya gibi), bankacılık metriklerini (kredi puanı, bakiye, ürünler) ve müşteri faaliyet göstergelerini içerir.
  
