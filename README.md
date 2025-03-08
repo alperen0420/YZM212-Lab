@@ -1,5 +1,5 @@
 # **Naive Bayes**
-**Problem Tanımı**: Bir bankanın çeşitli parametrelere bağlı olarak müşterilerinin bankayı terk edip etmedikleri
+**Problem Tanımı**: Bir bankanın çeşitli parametrelere bağlı olarak müşterilerinin bankayı terk edip etmedikleridir.
 
 **Kullanılan Veriseti**: Bu veri kümesi, Yeni Zelanda'nın önde gelen finans kuruluşlarından Kiwibank'ın müşteri kaybı kalıpları ve davranışları hakkında içgörü sağlamaktadır. Demografik bilgileri (yaş, cinsiyet, coğrafya gibi), bankacılık metriklerini (kredi puanı, bakiye, ürünler) ve müşteri faaliyet göstergelerini içerir.
 
@@ -45,4 +45,5 @@ Train Time:  0.004542112350463867
 Test Time:  0.19118213653564453
 ```
 olarak çıkmıştır.
-**Kişisel Yorum**: Naive Bayes modeli rastgelelik içermediği için genel olarak sonuçların benzer çıkması beklenir ancak hesaplamaların yapıldığı metodlar ve bazı optimizasyonlar sonucu ufak bir miktar değiştirmiştir.
+
+**Kişisel Yorum**: Naive Bayes modeli rastgelelik içermediği için genel olarak sonuçların benzer çıkması beklenir ancak hesaplamaların yapıldığı metodlar ve bazı optimizasyonlar sonucu küçük bir miktar değiştirmiştir.
