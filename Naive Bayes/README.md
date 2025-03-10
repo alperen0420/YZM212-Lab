@@ -3,7 +3,7 @@
  
  **Kullanılan Veriseti**: Bu veri kümesi, Yeni Zelanda'nın önde gelen finans kuruluşlarından Kiwibank'ın müşteri kaybı kalıpları ve davranışları hakkında içgörü sağlamaktadır. Demografik bilgileri (yaş, cinsiyet, coğrafya gibi), bankacılık metriklerini (kredi puanı, bakiye, ürünler) ve müşteri faaliyet göstergelerini içerir.
  
- **Yöntem**: Bu veriseti üzerinde Gaussian Naive Bayes alogirtması kullanılmıştır. Gaussian Naive Bayes özelliklerin sürekli olması durumunu ve normal dağılıma uyduğunu varsayar.
+ **Yöntem**: Bu veriseti üzerinde Gaussian Naive Bayes algoritması kullanılmıştır. Gaussian Naive Bayes özelliklerin sürekli olması durumunu ve normal dağılıma uyduğunu varsayar.
  
  **Sonuçlar**: Sonuç olarak SKlearn kütüphanesinin kullanıldığı modelde sonuçlar: 
  ```Confusion Matrix:
