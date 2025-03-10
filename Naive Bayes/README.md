@@ -47,3 +47,5 @@
  olarak çıkmıştır.
  
  **Kişisel Yorum**: Naive Bayes modeli rastgelelik içermediği için genel olarak sonuçların benzer çıkması beklenir ancak hesaplamaların yapıldığı metodlar ve bazı optimizasyonlar sonucu ufak bir miktar değiştirmiştir. Çalışma zamanı olarak Scikit Learn kütüphanesi işlemleri vektörize ettiğinden ancak modelin elle yazıldığı kodda ise işlemlerin döngülerle yapılmasından dolayı Test time'da bir miktar fark oluşmuştur.
+
+Alperen Aydın 22290435
