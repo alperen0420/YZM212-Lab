@@ -103,3 +103,10 @@ Makine öğrenmesindeki hesaplamaların temeli matris manipülasyonuna yani matr
 
 ## Sonuç:
 İlgili dosyadaki main fonksiyonunun çıktısında görüleceği üzere her iki fonksiyon da tam olarak aynı çıktıyı vermiştir. Bu gayet normaldir çünkü her iki fonksiyonun da temelde yaptığı şey tam olarak aynıdır, matrisin karakteristik polinomunu çıkarır ve köklerini yani özdeğerlerini bularak return eder.
+
+## Kaynakça:
+- https://bitmask93.github.io/ml-blog/Eigendecomposition-SVD-and-PCA
+- https://www.fullstack.com/labs/resources/blog/linear-algebra-essentials-for-machine-learning-developers
+- https://www.datacamp.com/tutorial/eigenvectors-eigenvalues
+
+Alperen Aydın 22290435
