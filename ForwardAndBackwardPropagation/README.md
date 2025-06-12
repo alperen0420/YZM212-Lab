@@ -80,3 +80,5 @@ Modeli değerlendirmek için şu yöntemler de kullanıldı:
 * `ForwardAndBackwardPropagation.ipynb` – Tüm model mimarisi ve eğitim kodları
 * `personality_dataset.zip` – Kullanıcı özellikleri ve etiketler
 * `README.md` – Bu belge
+
+Alperen Aydın 22290435
