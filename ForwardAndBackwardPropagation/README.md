@@ -73,15 +73,6 @@ Modeli değerlendirmek için şu yöntemler de kullanıldı:
 * Kategorik sütunlar → One-hot encoding ile dönüştürüldü
 * Sayısal özellikler → Min-Max normalizasyon (0–1 aralığı)
 
-## Çalıştırmak için
-
-```
-pip install numpy pandas scikit-learn matplotlib
-python sinir_agi.py
-```
-
-Veriniz `.csv` formatında olmalı ve `label` sütunu kişilik yönelimi (0/1) içermelidir.
-
 ## Dosyalar
 
 * `ForwardAndBackwardPropagation.ipynb` – Tüm model mimarisi ve eğitim kodları
