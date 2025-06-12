@@ -8,7 +8,7 @@ Sinir ağı, Python ile yalnızca `numpy` ve `scikit-learn` (performans metrikle
 
 ## Problem Tanımı
 
-Veri seti her birey için çeşitli nitelikler (yaş, eğitim, tutumlar vb.) içeriyor ve her birey:
+Veri seti her birey için çeşitli nitelikler içeriyor ve her birey:
 
 * İçedönük (1) veya
 * Dışadönük (0) olarak etiketlenmiştir.
