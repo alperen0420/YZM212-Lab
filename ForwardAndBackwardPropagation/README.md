@@ -1,3 +1,5 @@
+#İleri ve Geri Yayılım Algoritmaları ile Sinir Ağı Uygulaması
+
 # Kişilik Sınıflandırması — Basit Sinir Ağı ile İçedönük/Dışadönük Tahmini
 
 Bu proje, bireylere ait çeşitli özelliklerden yola çıkarak onların içedönük mü yoksa dışadönük mü olduğunu tahmin eden, sıfırdan yazılmış küçük bir yapay sinir ağı (ANN) uygulamasıdır.
