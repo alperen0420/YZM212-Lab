@@ -1,4 +1,4 @@
-#İleri ve Geri Yayılım Algoritmaları ile Sinir Ağı Uygulaması
+# Yapay Sinir Ağı
 
 # Kişilik Sınıflandırması — Basit Sinir Ağı ile İçedönük/Dışadönük Tahmini
 
