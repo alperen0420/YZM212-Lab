@@ -2,7 +2,7 @@
 
 Bu proje, bireylere ait çeşitli özelliklerden yola çıkarak onların içedönük mü yoksa dışadönük mü olduğunu tahmin eden, sıfırdan yazılmış küçük bir yapay sinir ağı (ANN) uygulamasıdır.
 
-Sinir ağı, Python ile yalnızca `numpy` ve `scikit-learn` gibi temel kütüphaneler kullanılarak manuel olarak uygulanmıştır.
+Sinir ağı, Python ile yalnızca `numpy` ve `scikit-learn` (performans metrikleri için) gibi temel kütüphaneler kullanılarak manuel olarak uygulanmıştır.
 
 ## Problem Tanımı
 
